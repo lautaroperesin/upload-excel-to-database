@@ -1,0 +1,31 @@
+{
+    "di_paolo_mayorista": {
+        "producto_codigo": "CODIGO_BARRAS",
+        "producto_nombre": "ART_DES",
+        "producto_precio_compra": "NETO"
+    },
+    "williams_distribuciones": {
+        "producto_nombre": "Descripcion",
+        "producto_precio_compra": "Precio c/iva"
+    },
+    "celeste_y_blanca": {
+        "producto_codigo": "Cod Barra",
+        "producto_nombre": "Descripción",
+        "producto_precio_compra": "Precio s/IVA"
+    },
+    "rio_distribuidora": {
+        "producto_codigo": "Codigo",
+        "producto_nombre": "Descripcion",
+        "producto_precio_compra": "Precio s/IVA"
+    },
+    "tallamar_sa": {
+        "producto_codigo": "Código",
+        "producto_nombre": "Descripción",
+        "producto_precio_compra": "Precio S/ IVA"
+    },
+    "marplast":{
+        "producto_codigo": "Cod.Barras",
+        "producto_nombre": "Descripcion",
+        "producto_precio_compra": "Lista"
+    }
+}
